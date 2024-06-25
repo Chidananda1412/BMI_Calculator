@@ -23,7 +23,7 @@ This project is a BMI (Body Mass Index) calculator with a graphical user interfa
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/file_name.git
+   git clone https://github.com/your-username/repositoryname.git
    cd Address_to_the_folder
    ```
 
@@ -36,7 +36,7 @@ This project is a BMI (Body Mass Index) calculator with a graphical user interfa
 
 1. **Run the application:**
    ```bash
-   python bmi_calculator.py
+   python filename.py
    ```
 
 2. **Using the GUI:**
